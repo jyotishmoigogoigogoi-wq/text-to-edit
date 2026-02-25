@@ -1,17 +1,3 @@
-# 终极 AI 机器人依赖
-# 所有版本锁定, 确保稳定运行
-
-# Telegram Bot 核心框架
 python-telegram-bot==20.7
-
-# 图像处理
-Pillow==10.1.0
-
-# HTTP 请求
-requests==2.31.0
-
-# 环境变量管理
-python-dotenv==1.0.0
-
-# (可选) 用于某些提供商
-# 注意: 如果没有 Node.js, Puter.js 相关功能会回退
+requests
+python-dotenv
